@@ -1,3 +1,14 @@
 .nav-container {
   outline: 1px solid green;
+  display: flex;
+  justify-content: ;
+}
+
+.nav-container img {
+  height: 40px;
+  width: auto;
+}
+
+.nav-right {
+  margin-left: auto;
 }
