@@ -1,7 +1,7 @@
 /* UNIVERSAL */
 
 body {
-  background-color: #ffffff;
+  background-color: #eeeeee;
   padding: 0;
   margin: 0;
   text-align: center;
@@ -162,6 +162,34 @@ h1 {
   color: #394955;
   font-family: "Roboto", arial;
   justify-content: flex-end;
+}
+
+/* SIGN UP TEXT */
+.sign-up {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 20px;
+  margin: 20px;
+  background-color: #537188;
+  border-radius: 5px;
+}
+
+.right {
+}
+
+.left button {
+  display: block;
+  text-align: center;
+  width: 110px;
+  border: none;
+  background: #3882f6;
+  padding: 10px;
+  border-radius: 8px;
+  color: #fff;
+  font-family: "Roboto", arial;
+  text-decoration: none;
+  font-weight: bold;
 }
 
 /* FOOTER */
