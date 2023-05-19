@@ -1,28 +1,5 @@
 /* HEADER */
 
-.header {
-  outline: 2px solid greenyellow;
-  display: flex;
-  justify-content: space-between;
-  background-color: #7d4f50;
-}
-
-.nav-logo img {
-  max-height: 40px;
-}
-
 /* MAIN BODY */
 
-.main-container {
-  outline: 2px solid greenyellow;
-  display: flex;
-  margin-bottom: 80px;
-  margin-top: 80px;
-  justify-content: space-evenly;
-}
-
-.secondary-info-container {
-  outline: 2px solid greenyellow;
-  display: flex;
-  justify-content: space-evenly;
-}
+/* FOOTER */

@@ -1,6 +1,4 @@
 Attributes list
 
 
-<a href="https://www.flaticon.com/free-icons/odin" title="odin icons"
-  >Odin icons created by Freepik - Flaticon</a
->
+<a href="https://www.flaticon.com/free-icons/capybara" title="capybara icons">Capybara icons created by max.icons - Flaticon</a>s
