@@ -28,7 +28,7 @@ body {
 /* HEADER */
 .navbar {
   display: flex;
-  padding: 20px 0px 20px 100px;
+  padding: 20px 0px 20px 80px;
   align-items: center;
   outline: 2px solid red;
 }
@@ -59,7 +59,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 90px;
+  padding: 60px;
 }
 
 .main-text {
@@ -108,6 +108,7 @@ h1 {
 
 .info {
   align-items: center;
+  padding: 40px 20px;
 }
 
 .info h2 {
@@ -153,6 +154,15 @@ h1 {
   font-family: "Roboto", arial;
 }
 
+.quotes b {
+  display: flex;
+  font-size: 16px;
+  text-align: right;
+  color: #394955;
+  font-family: "Roboto", arial;
+  justify-content: flex-end;
+}
+
 /* FOOTER */
 
 .footer {
@@ -160,8 +170,4 @@ h1 {
 
   margin: 0 5px;
   padding: 5px 5px;
-}
-
-.colorpallette {
-  color: #537188 #cbb279 #e1d4bb #eeeeee;
 }
