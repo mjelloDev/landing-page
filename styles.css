@@ -1,13 +1,16 @@
 /* UNIVERSAL */
 /* COLOUR PALLETTE:
-#CC8B86
-#F9EAE1
-#7D4F50
-#D1BE9C
-#AA998F */
+#537188
+#CBB279
+#E1D4BB
+#EEEEEE */
+
+body {
+  background-color: black;
+}
 
 .container {
-  outline: 3px solid green;
+  /* outline: 3px solid green; */
   display: flex;
   margin: 5px 5px;
   padding: 5px 5px;
@@ -20,16 +23,34 @@
 }
 
 /* MAIN BODY */
+.nav,
+.main {
+  background-color: #537188;
+}
+
+.info {
+  background-color: #eeeeee;
+}
 
 .main img {
   height: 300px;
   width: auto;
 }
+
+.quotes {
+  background-color: #cbb279;
+}
+
 .sign-up {
-  outline: 3px solid green;
+  /* outline: 3px solid green; */
+  background-color: #eeeeee;
+  margin: 5px 5px;
+  padding: 5px 5px;
 }
 /* FOOTER */
 
 .footer {
-  outline: 3px solid green;
+  /* outline: 3px solid green; */
+  margin: 5px 5px;
+  padding: 5px 5px;
 }
