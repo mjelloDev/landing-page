@@ -207,7 +207,8 @@ h1 {
 
 .footer {
   /* outline: 3px solid green; */
-
+  color: #7f6a53;
+  font-weight: bolder;
   margin: 0 5px;
   padding: 5px 5px;
 }
