@@ -1,14 +1,28 @@
-.nav-container {
-  outline: 1px solid green;
+/* HEADER */
+
+.header {
+  outline: 2px solid greenyellow;
   display: flex;
-  justify-content: ;
+  justify-content: space-between;
+  background-color: #7d4f50;
 }
 
-.nav-container img {
-  height: 40px;
-  width: auto;
+.nav-logo img {
+  max-height: 40px;
 }
 
-.nav-right {
-  margin-left: auto;
+/* MAIN BODY */
+
+.main-container {
+  outline: 2px solid greenyellow;
+  display: flex;
+  margin-bottom: 80px;
+  margin-top: 80px;
+  justify-content: space-evenly;
+}
+
+.secondary-info-container {
+  outline: 2px solid greenyellow;
+  display: flex;
+  justify-content: space-evenly;
 }
