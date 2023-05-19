@@ -1,5 +1,17 @@
+/* UNIVERSAL */
+.container {
+  outline: 3px solid green;
+}
+
 /* HEADER */
 
 /* MAIN BODY */
 
+.sign-up {
+  outline: 3px solid green;
+}
 /* FOOTER */
+
+.footer {
+  outline: 3px solid green;
+}
