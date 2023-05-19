@@ -1,12 +1,30 @@
 /* UNIVERSAL */
+/* COLOUR PALLETTE:
+#CC8B86
+#F9EAE1
+#7D4F50
+#D1BE9C
+#AA998F */
+
 .container {
   outline: 3px solid green;
+  display: flex;
+  margin: 5px 5px;
+  padding: 5px 5px;
 }
 
 /* HEADER */
+.nav img {
+  max-width: 40px;
+  max-height: auto;
+}
 
 /* MAIN BODY */
 
+.main img {
+  height: 300px;
+  width: auto;
+}
 .sign-up {
   outline: 3px solid green;
 }
